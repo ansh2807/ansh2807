@@ -3,8 +3,6 @@
   <img src="assets/brand/cover.gif" alt="Ansh Kalra / DRAG — cybersecurity, software, and design" width="1200">
 </picture>
 
-<img align="right" src="assets/avatar.jpg" alt="Illustrated portrait of Ansh Kalra" width="130">
-
 # Ansh Kalra · DRAG
 
 **Cybersecurity-minded builder. Software with a point of view.**
@@ -12,8 +10,6 @@
 I build tools for people who want more control over their software and data: self-hosted authentication, document workflows, local media tools, and evidence-backed intelligence. I care about the interface as much as what runs behind it.
 
 [Explore my work](#selected-work) · [How I build](#how-i-build) · [Instagram](https://www.instagram.com/im_drag_/)
-
-<br clear="right">
 
 ## Selected work
 

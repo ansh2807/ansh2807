@@ -148,12 +148,24 @@ A frontend design skill with motion effects, project starters, and visual checks
 </td>
 <td width="50%" valign="top">
 
-### 06 / [CMS System](https://github.com/ansh2807/CMS-SYSTEM-)
-**Next on the workbench.**
+### 06 / [PhantomResume](https://github.com/ansh2807/phantom-resume)
+**See the document behind the resume.**
 
-An upcoming CMS project — the public repo is a preview; application source isn't released yet.
+Resume prompt-injection toolkit for controlled ATS testing. Explore metadata, hidden text, images, QR codes, audio, and font channels with local verification and PDF export.
 
-`Coming soon`
+`Python` · `DOCX / PDF` · `ATS research`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 07 / [Aether](https://github.com/ansh2807/aether)
+**The task survives when the model does not.**
+
+A deterministic orchestrator for multi-agent AI work, with persistent checkpoints, structured handoffs, provider failover, and artifact verification behind an OpenAI-compatible endpoint.
+
+`Python` · `Multi-agent orchestration` · `30+ providers`
 
 </td>
 </tr>
